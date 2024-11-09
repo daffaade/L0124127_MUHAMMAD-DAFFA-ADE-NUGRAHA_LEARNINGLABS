@@ -1,2 +1,10 @@
 # Tekken 8
-A simple web that describe a character at Tekken 8 , in this case we will see Reina Mishima
+Codingan yang Saya buat adalah sebuah halaman web yang dirancang untuk memperkenalkan karakter baru dalam game Tekken 8, yaitu Reina. Halaman ini dimulai dengan deklarasi HTML5 dan menyertakan metadata penting seperti pengaturan karakter set dan responsivitas untuk perangkat mobile. Di dalam bagian <head>, terdapat tautan ke file CSS eksternal yang digunakan untuk memberikan gaya pada elemen-elemen di halaman.
+
+Di dalam <body>, terdapat beberapa section yang membentuk struktur konten halaman. Section pertama, yang dikenal sebagai hero section, memberikan pengantar visual yang menarik dengan gambar latar belakang dan informasi singkat mengenai Reina, termasuk gaya bertarung dan latar belakang ceritanya. Di bagian ini, terdapat juga navigasi yang memungkinkan pengguna untuk mengakses bagian lain dari situs, seperti Home, Service, dan About Us, serta tombol untuk bergabung.
+
+Selanjutnya, terdapat section aktivitas yang menjelaskan tentang cara bermain Reina, termasuk taktik dan kombo serangan cepat yang dapat digunakan oleh pemain. Di sini, disertakan juga gambar-gambar yang mendukung deskripsi tersebut, menambah daya tarik visual dan memperjelas informasi yang disampaikan.
+
+Bagian banner menampilkan kutipan menarik yang berkaitan dengan Reina, memberikan nuansa yang lebih mendalam tentang karakter tersebut. Diikuti dengan section blog yang memberikan informasi tambahan tentang karakter lain dalam game, yaitu Angel Jin dan Steve Fox, lengkap dengan deskripsi dan tautan untuk informasi lebih lanjut.
+
+Terakhir, terdapat section Call to Action yang mengajak pengunjung untuk mengajukan pertanyaan, dilengkapi dengan kolom input dan tombol submit. Halaman ini ditutup dengan penutupan tag HTML yang menandakan akhir dari struktur dokumen. Secara keseluruhan, halaman ini dirancang dengan baik untuk memberikan informasi yang menarik dan interaktif tentang Tekken 8 dan karakter-karakternya, dengan fokus pada responsivitas agar dapat diakses dengan baik di berbagai perangkat.
